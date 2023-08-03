@@ -77,6 +77,10 @@ main {
     margin-left: 1.5rem;
 }
 
+.nav-links a {
+    color: var(--Dark-grayish-blue);
+}
+
 .nav-links a:hover {
     color: var(--Soft-red);
 }
